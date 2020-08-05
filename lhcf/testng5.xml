@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="TestAll">
+
+    <test name="order">
+        <classes>
+            <class name="com.lhcf.SuiteTest.TestConfig" />
+            <class name="com.lhcf.SuiteTest.TestOrder">
+                <methods>
+                    <include name="testMakeOrder" />
+                    <include name="testUpdateOrder" />
+                    <!--
+                        <exclude name="testMakeOrder" />
+                     -->
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+
+
+</suite>
+
