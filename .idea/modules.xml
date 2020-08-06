@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/clsp/clsp.iml" filepath="$PROJECT_DIR$/clsp/clsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clsp/clsp.iml" filepath="$PROJECT_DIR$/clsp/clsp.iml" />
       <module fileurl="file://$PROJECT_DIR$/cscy/cscy.iml" filepath="$PROJECT_DIR$/cscy/cscy.iml" />
       <module fileurl="file://$PROJECT_DIR$/lhcf/lhcf.iml" filepath="$PROJECT_DIR$/lhcf/lhcf.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/testng-clsp.iml" filepath="$PROJECT_DIR$/.idea/testng-clsp.iml" />

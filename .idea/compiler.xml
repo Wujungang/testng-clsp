@@ -6,9 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="clsp" />
         <module name="cscy" />
         <module name="lhcf" />
-        <module name="clsp" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
